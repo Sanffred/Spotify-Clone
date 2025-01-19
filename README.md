@@ -1,5 +1,7 @@
 # Spotify-Clone
 <br><br>
-![Screenshot 2025-01-20 015130](https://github.com/user-attachments/assets/c42594c8-abbe-4518-873e-f93dd383cb5d)
+![Screenshot 2025-01-20 015917](https://github.com/user-attachments/assets/96933035-0eb8-44f8-bc1f-6f5f7ecb89c9)
+
 <br><br>
-![Screenshot 2025-01-20 015140](https://github.com/user-attachments/assets/f53897ba-5591-4927-800e-d5917bd9d40c)
+
+![Screenshot 2025-01-20 015927](https://github.com/user-attachments/assets/50d43141-96d9-4f64-b45c-588876a71f9e)
